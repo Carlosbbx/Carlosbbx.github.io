@@ -21,7 +21,4 @@
 "id":"@Carlosbbx.github.io/prueba-hosting",
 "bundleUrl":"https://Carlosbbx.github.io/App.js",
 "platform":"android",
-"android": {
-      "package": "com.prueba"
-    },
 }
