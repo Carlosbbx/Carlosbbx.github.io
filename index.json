@@ -20,4 +20,5 @@
 "revisionId":"4MeMDyYXAa",
 "id":"@CarlosEscobarBlasco/prueba-hosting",
 "bundleUrl":"https://expo.github.io/prueba-hosting/App.js",
+"android": {"package": "com.prueba"},
 "platform":"android"}
