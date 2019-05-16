@@ -19,5 +19,9 @@
 "commitTime":"2019-05-15T23:29:57.195Z",
 "revisionId":"4MeMDyYXAa",
 "id":"@CarlosEscobarBlasco/prueba-hosting",
-"bundleUrl":"https://expo.github.io/prueba-hosting/App.js",
-"platform":"android"}
+"bundleUrl":"https://carlosbbx.github.io/App.js",
+"platform":"android",
+"android": {
+      "package": "com.prueba"
+    },
+}
