@@ -3,7 +3,7 @@
     "package": "com.prueba"
   },
   "assetUrlOverride": "./assets",
-  "bundleUrl": "https://carlosbbx.github.io/bundles/android-b525f42d5b34db7c9e2a638894659ff7.js",
+  "bundleUrl": "https://carlosbbx.github.io/bundles/android-d2cb3d798c3d668b0189320446f3b101.js",
   "bundledAssets": [
     "asset_3a2ba31570920eeb9b1d217cabe58315.ttf",
     "asset_744ce60078c17d86006dd0edabcd59a7.ttf",
@@ -18,7 +18,7 @@
     "asset_d2285965fe34b05465047401b8595dd0.ttf",
     "asset_5cdf883b18a5651a29a4d1ef276d2457.ttf"
   ],
-  "commitTime": "2019-05-16T09:17:07.771Z",
+  "commitTime": "2019-05-16T11:10:11.485Z",
   "icon": "./assets/icon.png",
   "iconUrl": "https://carlosbbx.github.io/assets/fa6577fecc0a7838f15a254577639984",
   "id": "@carlosbbx/prueba",
@@ -34,8 +34,8 @@
     "android"
   ],
   "privacy": "public",
-  "publishedTime": "2019-05-16T09:17:07.771Z",
-  "revisionId": "yBDMXekMXL",
+  "publishedTime": "2019-05-16T11:10:11.485Z",
+  "revisionId": "bnDOKQvk1z",
   "scheme": "prueba",
   "sdkVersion": "32.0.0",
   "slug": "prueba",
@@ -48,5 +48,5 @@
   "updates": {
     "fallbackToCacheTimeout": 0
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
