@@ -46,7 +46,7 @@
     "resizeMode": "contain"
   },
   "updates": {
-    "fallbackToCacheTimeout": 2000
+    "fallbackToCacheTimeout": 2000000
   },
   "version": "1.0.1"
 }
