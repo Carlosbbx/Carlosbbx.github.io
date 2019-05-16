@@ -1,27 +1,33 @@
-{"name":"prueba",
-"slug": "prueba",
-"privacy": "public",
-"sdkVersion": "32.0.0",
-"platforms":["ios","android"],
-"version":"1.0.0",
-"orientation":"portrait",
-"icon":"./assets/icon.png",
-"splash":{
-  "image":"./assets/splash.png",
-  "resizeMode":"contain",
-  "backgroundColor":"#ffffff"},
-"updates":{"fallbackToCacheTimeout":0},
-"ios":{"supportsTablet":true},
-"locales":{},
-"bundleAssets": [],
-"assetUrlOverride":"./assets",
-"publishedTime":"2019-05-15T23:29:57.195Z",
-"commitTime":"2019-05-15T23:29:57.195Z",
-"revisionId":"4MeMDyYXAa",
-"id":"@CarlosEscobarBlasco/prueba-hosting",
-"bundleUrl":"https://carlosbbx.github.io/App.js",
-"platform":"android",
-"android": {
+{
+  "expo": {
+    "name": "prueba",
+    "scheme": "prueba",
+    "slug": "prueba",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
       "package": "com.prueba"
     },
+  }
 }
